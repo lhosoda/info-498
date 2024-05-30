@@ -19,6 +19,13 @@ The extensive adoption of AI models, especially in hiring processes, has streaml
 - Overview documents (ex. team agreement, midterm report, etc.)
 - Iterations of our ranking algorithms, logistic regression models, and dataset generation
 
+### Instructions:
+#### In final.ipynb:
+- Change the "data" value to the desired dataset (either ChatGPT or Llama)
+- Enter a job description when prompted
+- Run the visualization code chunk to observe confusion matrix and ROC curve
+* Note: previous iterations of the ipynb and data csv files can be found in the respective data and technical component directories
+
 ### Further Reading:
-Medium Article: _In Progress_
+Medium Article: https://medium.com/@bndn13/bias-in-ai-driven-hiring-tools-a-comparative-study-of-chatgpt-and-llama-2-ef2cd8bc7384 
 
